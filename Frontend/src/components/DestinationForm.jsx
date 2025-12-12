@@ -46,7 +46,7 @@ function DestinationForm({ onSubmit, editingDestination }) {
         background: "#fafafa"
       }}
     >
-      <h3>{editingDestination ? "Modify Destiny" : "Create Destiny"}</h3>
+      <h3>{editingDestination ? "Modify Destiny" : "Crea tu destino"}</h3>
 
       {/* FLEX GRID */}
       <div style={{ display: "flex", gap: "20px" }}>
