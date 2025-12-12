@@ -1,0 +1,29 @@
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  margin: 4px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.2s;
+  font-size: 14px;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+button:disabled {
+  background: #aaa;
+  cursor: not-allowed;
+}
+
+/* Botón peligro */
+button.danger {
+  background: #dc3545;
+}
+
+button.danger:hover {
+  background: #a3000f;
+}

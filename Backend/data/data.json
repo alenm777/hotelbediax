@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1765547816095",
+    "name": "Jazz Nights",
+    "country": "USA",
+    "city": "New Orleans",
+    "description": "Experiencia musical con jazz en vivo y cultura local.",
+    "rating": "4",
+    "createdAt": "2025-12-12T13:56:56.095Z"
+  },
+  {
+    "id": "1765547782633",
+    "name": "Grand Canyon Tour",
+    "country": "USA",
+    "city": "Arizona",
+    "description": "Excursión al famoso cañón con vistas impresionantes y senderismo.",
+    "rating": "5",
+    "createdAt": "2025-12-12T13:56:22.633Z"
+  },
+  {
+    "id": "1765547300666",
+    "name": "Rainforest Retreat",
+    "country": "Brasil",
+    "city": "Manaus",
+    "description": "Exploración de selva amazónica y fauna exótica.",
+    "rating": "4",
+    "createdAt": "2025-12-12T13:48:20.666Z"
+  },
+  {
+    "id": "1765547269208",
+    "name": "Ancient Ruins",
+    "country": "Mexico",
+    "city": "Teotihuacan",
+    "description": "Pirámides y templos históricos.",
+    "rating": "5",
+    "createdAt": "2025-12-12T13:47:49.208Z"
+  },
+  {
+    "id": "1765547243635",
+    "name": "Desert Adventure",
+    "country": "Morocco",
+    "city": "Merzouga",
+    "description": "Excursión por dunas en camello y noches estrelladas.",
+    "rating": "4",
+    "createdAt": "2025-12-12T13:47:23.635Z"
+  },
+  {
+    "id": "1765547217093",
+    "name": "City Lights",
+    "country": "USA",
+    "city": "New York",
+    "description": "Experiencia urbana con rascacielos y vida nocturna.",
+    "rating": "4",
+    "createdAt": "2025-12-12T13:46:57.093Z"
+  },
+  {
+    "id": "1765547185523",
+    "name": "Mountain Escape",
+    "country": "Canada",
+    "city": "Banff",
+    "description": "Refugio en las montañas con paisajes impresionantes.",
+    "rating": "4",
+    "createdAt": "2025-12-12T13:46:25.523Z"
+  },
+  {
+    "id": "1765546047073",
+    "name": "Sunshine Beach",
+    "country": "Australia",
+    "city": "Gold Coast",
+    "description": "Playa famosa por surf y arena dorada.",
+    "rating": "5",
+    "createdAt": "2025-12-12T13:27:27.073Z",
+    "updatedAt": "2025-12-12T13:46:01.160Z"
+  },
+  {
+    "id": "1765545665681",
+    "name": "Parque Nacional Torres del Paine",
+    "country": "Chile",
+    "city": "Puerto Natales (puerta de entrada)",
+    "description": "Un paraíso para los amantes del trekking y la naturaleza, famoso por sus enormes torres de granito, lagos turquesa y glaciares.",
+    "rating": 4.8,
+    "createdAt": "2025-12-12T13:21:05.681Z"
+  },
+  {
+    "id": "1765503123756",
+    "name": "Córdoba Capital",
+    "country": "Argentina",
+    "city": "Córdoba",
+    "description": "ciudad turistica ",
+    "rating": 4,
+    "createdAt": "2025-12-12T01:32:03.756Z",
+    "updatedAt": "2025-12-12T01:49:35.345Z"
+  },
+  {
+    "id": "1765497988067",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "description": "Destino actualizado - ahora con más información",
+    "rating": 5,
+    "createdAt": "2025-12-12T00:06:28.067Z",
+    "updatedAt": "2025-12-12T00:10:17.395Z"
+  }
+]
