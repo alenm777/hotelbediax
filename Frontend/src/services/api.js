@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3001/api";
+const BASE_URL = "https://hotelbediax-orcd.onrender.com/api";
 
 export async function getDestinations({ page = 1, limit = 10, q = "", country = "", city = "" } = {}) {
   const params = new URLSearchParams();
